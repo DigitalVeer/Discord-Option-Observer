@@ -1,0 +1,14 @@
+os
+datetime
+discord
+discordant
+dotenv
+gspread
+gspread_formatting
+oauth2client
+numpy
+logging
+pandas
+re
+requests
+requests_oauthlib
