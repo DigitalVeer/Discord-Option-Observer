@@ -59,3 +59,21 @@ Once you edit the .env files with your proper tokens, you can simply run the app
 ```
 py3 main.py
 ```
+
+## Credits
+
+This software uses the following open source packages:
+
+- [DiscordPy](https://discordpy.readthedocs.io/en/stable/)
+- [Python](https://www.python.org/downloads/)
+- [GSheets](https://github.com/xflr6/gsheets)
+- [pandas](https://pandas.pydata.org/)
+- [TDA Market Data](https://developer.tdameritrade.com/apis)
+
+## License
+
+MIT
+
+---
+
+> GitHub [@digitalveer](https://github.com/digitalveer) &nbsp;&middot;&nbsp;
