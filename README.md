@@ -73,7 +73,3 @@ This software uses the following open source packages:
 ## License
 
 MIT
-
----
-
-> GitHub [@digitalveer](https://github.com/digitalveer) &nbsp;&middot;&nbsp;
