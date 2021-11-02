@@ -21,8 +21,7 @@
 ![output-onlinegiftools (1)](https://user-images.githubusercontent.com/8453348/139714463-4b7b2cca-5f42-4eed-b3c7-e3c1a95b9a7d.gif)
 
 
-`DOO` aut![Uploading DOO.png…]()
-omatically updates your Spreadsheet at the beginning of each day, or whenever you make new changes.
+`DOO` automatically updates your Spreadsheet at the beginning of each day, or whenever you make new changes.
 
 ![spreadsheet3](https://user-images.githubusercontent.com/8453348/139717859-a4a14e8b-757b-467c-b707-b48cb667a5e7.gif)
 
