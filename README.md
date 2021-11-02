@@ -10,8 +10,8 @@
 
 
 <p align="center">
-  <a href="https://badge.fury.io/py/discord">
-    <img src="https://badge.fury.io/py/discord.svg"
+  <a href="https://badge.fury.io/py/discord.py">
+    <img src="https://badge.fury.io/py/discord.py.svg"
          alt="Gitter">
   </a>
 </p>
