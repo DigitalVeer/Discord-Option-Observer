@@ -1,6 +1,13 @@
-# DOO - Discord Option Observer
+<h1 align="center">
+  <br>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://user-images.githubusercontent.com/8453348/139850036-356ebde6-b7de-4f76-9e80-50706cac8f05.png" alt="Markdownify" width="200"></a>
+  <br>
+  Discord Option Observer
+  <br>
+</h1>
 
 <h4 align="center">An Open Interest Tracker built on top of <a href="https://discordpy.readthedocs.io/en/stable/" target="_blank">DiscordPy</a>.</h4>
+
 
 <p align="center">
   <a href="https://badge.fury.io/py/discord">
@@ -14,7 +21,8 @@
 ![output-onlinegiftools (1)](https://user-images.githubusercontent.com/8453348/139714463-4b7b2cca-5f42-4eed-b3c7-e3c1a95b9a7d.gif)
 
 
-`DOO` automatically updates your Spreadsheet at the beginning of each day, or whenever you make new changes.
+`DOO` aut![Uploading DOO.png…]()
+omatically updates your Spreadsheet at the beginning of each day, or whenever you make new changes.
 
 ![spreadsheet3](https://user-images.githubusercontent.com/8453348/139717859-a4a14e8b-757b-467c-b707-b48cb667a5e7.gif)
 
