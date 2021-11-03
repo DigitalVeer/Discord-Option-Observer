@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://user-images.githubusercontent.com/8453348/139850036-356ebde6-b7de-4f76-9e80-50706cac8f05.png" alt="Markdownify" width="200"></a>
+  <img src="https://user-images.githubusercontent.com/8453348/139850036-356ebde6-b7de-4f76-9e80-50706cac8f05.png" alt="Markdownify" width="200"></a>
   <br>
   Discord Option Observer
   <br>
